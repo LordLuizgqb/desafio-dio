@@ -1,0 +1,10 @@
+Códigos caso eu esqueça
+
+- git init
+- git add
+- git git commit
+- git status
+- cd
+- mkdir
+- ls
+- mv
