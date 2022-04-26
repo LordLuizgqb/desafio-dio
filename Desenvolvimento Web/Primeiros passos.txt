@@ -1,0 +1,17 @@
+TCP x UDP
+
+UDP - Rápido, Não confiável, livestream
+
+TCP - Voltando á conexão, handshake, integridade e ordem de dados, aplicativo de mensagens 
+
+Estrutura básica:
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta>
+	<title></title>
+	</head>
+	
+	<body>
+	</body>
+</html>
